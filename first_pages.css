@@ -5,7 +5,7 @@ html{
 
 body{
     background-image: url("green_background.png");
-    background-size: cover;
+    background-size: 100vw 100vh;
     background-repeat: no-repeat;
 } 
 
